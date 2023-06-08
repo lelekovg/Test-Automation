@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="WebDriverHW2Test" duration-ms="84684" started-at="2022-09-08T02:19:07 EEST" finished-at="2022-09-08T02:20:31 EEST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="84684" started-at="2022-09-08T02:19:07 EEST" finished-at="2022-09-08T02:20:31 EEST">
+      <class name="WebDriverHW2Test">
+        <test-method status="PASS" signature="profileSetUp()[pri:0, instance:WebDriverHW2Test@72b6cbcc]" name="profileSetUp" is-config="true" duration-ms="12" started-at="2022-09-08T02:19:07 EEST" finished-at="2022-09-08T02:19:07 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profileSetUp -->
+        <test-method status="PASS" signature="testsSetUp()[pri:0, instance:WebDriverHW2Test@72b6cbcc]" name="testsSetUp" is-config="true" duration-ms="9525" started-at="2022-09-08T02:19:07 EEST" finished-at="2022-09-08T02:19:16 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsSetUp -->
+        <test-method status="PASS" signature="checkingSearchResults()[pri:1, instance:WebDriverHW2Test@72b6cbcc]" name="checkingSearchResults" duration-ms="6184" started-at="2022-09-08T02:19:16 EEST" finished-at="2022-09-08T02:19:22 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingSearchResults -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:WebDriverHW2Test@72b6cbcc]" name="tearDown" is-config="true" duration-ms="357" started-at="2022-09-08T02:19:22 EEST" finished-at="2022-09-08T02:19:23 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="testsSetUp()[pri:0, instance:WebDriverHW2Test@72b6cbcc]" name="testsSetUp" is-config="true" duration-ms="5360" started-at="2022-09-08T02:19:23 EEST" finished-at="2022-09-08T02:19:28 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsSetUp -->
+        <test-method status="PASS" signature="checkingFilterResults()[pri:2, instance:WebDriverHW2Test@72b6cbcc]" name="checkingFilterResults" duration-ms="6769" started-at="2022-09-08T02:19:28 EEST" finished-at="2022-09-08T02:19:35 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingFilterResults -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:WebDriverHW2Test@72b6cbcc]" name="tearDown" is-config="true" duration-ms="220" started-at="2022-09-08T02:19:35 EEST" finished-at="2022-09-08T02:19:35 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="testsSetUp()[pri:0, instance:WebDriverHW2Test@72b6cbcc]" name="testsSetUp" is-config="true" duration-ms="6950" started-at="2022-09-08T02:19:35 EEST" finished-at="2022-09-08T02:19:42 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsSetUp -->
+        <test-method status="PASS" signature="checkOfCountOfProductsOnThePage()[pri:3, instance:WebDriverHW2Test@72b6cbcc]" name="checkOfCountOfProductsOnThePage" duration-ms="6230" started-at="2022-09-08T02:19:42 EEST" finished-at="2022-09-08T02:19:48 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkOfCountOfProductsOnThePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:WebDriverHW2Test@72b6cbcc]" name="tearDown" is-config="true" duration-ms="188" started-at="2022-09-08T02:19:48 EEST" finished-at="2022-09-08T02:19:48 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="testsSetUp()[pri:0, instance:WebDriverHW2Test@72b6cbcc]" name="testsSetUp" is-config="true" duration-ms="7977" started-at="2022-09-08T02:19:48 EEST" finished-at="2022-09-08T02:19:56 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsSetUp -->
+        <test-method status="PASS" signature="checkThanYouCanBuyProduct()[pri:4, instance:WebDriverHW2Test@72b6cbcc]" name="checkThanYouCanBuyProduct" duration-ms="4264" started-at="2022-09-08T02:19:56 EEST" finished-at="2022-09-08T02:20:01 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkThanYouCanBuyProduct -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:WebDriverHW2Test@72b6cbcc]" name="tearDown" is-config="true" duration-ms="244" started-at="2022-09-08T02:20:01 EEST" finished-at="2022-09-08T02:20:01 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="testsSetUp()[pri:0, instance:WebDriverHW2Test@72b6cbcc]" name="testsSetUp" is-config="true" duration-ms="8023" started-at="2022-09-08T02:20:01 EEST" finished-at="2022-09-08T02:20:09 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsSetUp -->
+        <test-method status="PASS" signature="checkThanTheProductIsInCart()[pri:5, instance:WebDriverHW2Test@72b6cbcc]" name="checkThanTheProductIsInCart" duration-ms="6628" started-at="2022-09-08T02:20:09 EEST" finished-at="2022-09-08T02:20:16 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkThanTheProductIsInCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:WebDriverHW2Test@72b6cbcc]" name="tearDown" is-config="true" duration-ms="155" started-at="2022-09-08T02:20:16 EEST" finished-at="2022-09-08T02:20:16 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="testsSetUp()[pri:0, instance:WebDriverHW2Test@72b6cbcc]" name="testsSetUp" is-config="true" duration-ms="7146" started-at="2022-09-08T02:20:16 EEST" finished-at="2022-09-08T02:20:23 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsSetUp -->
+        <test-method status="PASS" signature="checkCorrectSorting()[pri:6, instance:WebDriverHW2Test@72b6cbcc]" name="checkCorrectSorting" duration-ms="8149" started-at="2022-09-08T02:20:23 EEST" finished-at="2022-09-08T02:20:31 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCorrectSorting -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:WebDriverHW2Test@72b6cbcc]" name="tearDown" is-config="true" duration-ms="256" started-at="2022-09-08T02:20:31 EEST" finished-at="2022-09-08T02:20:31 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- WebDriverHW2Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- WebDriverHW2Test -->
+</testng-results>
