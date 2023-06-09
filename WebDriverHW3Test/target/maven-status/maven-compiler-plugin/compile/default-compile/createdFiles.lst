@@ -1,0 +1,5 @@
+webDriverPages\HomePage.class
+webDriverPages\AppleStorePage.class
+webDriverPages\AppleWatchPage.class
+webDriverPages\SearchPage.class
+webDriverPages\BasePage.class
